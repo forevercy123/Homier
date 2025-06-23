@@ -1,0 +1,21 @@
+Fri Jun 20 13:13:45 2025
+ERROR: could not create window
+
+Fri Jun 20 13:27:14 2025
+ERROR: could not create window
+
+Fri Jun 20 13:30:37 2025
+ERROR: could not create window
+
+Fri Jun 20 14:11:52 2025
+ERROR: could not create window
+
+Fri Jun 20 14:14:44 2025
+ERROR: could not create window
+
+Fri Jun 20 14:16:07 2025
+WARNING: OpenGL error 0x502 in or before mjr_makeContext
+
+Fri Jun 20 17:58:20 2025
+WARNING: OpenGL error 0x502 in or before mjr_makeContext
+
