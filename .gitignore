@@ -51,8 +51,8 @@ Thumbs.db
 # VS Code
 .vscode
 # logs
-legged_gym/logs
-logs
+# legged_gym/logs
+# logs
 runs
 
 # other
@@ -60,7 +60,7 @@ runs
 __pycache__
 
 wandb/
-*.pt
+# *.pt
 
 # IDE
 .vscode
